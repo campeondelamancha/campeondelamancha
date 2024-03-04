@@ -18,3 +18,7 @@ h3 {
 h2 {
 	font-size: 14pt;
 }
+
+hr {
+	border-top: 1px dashed white;
+}
